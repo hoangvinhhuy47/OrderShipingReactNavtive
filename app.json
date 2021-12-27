@@ -1,0 +1,11 @@
+{
+  "name": "OrderShipping",
+  "displayName": "OrderShipping",
+  "android": {
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyA_Xi9DVRafgQgt30v19rrmB49EUmadC1U"
+      }
+    }
+  }
+}
